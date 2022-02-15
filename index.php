@@ -4,6 +4,8 @@ include 'header.php';
 
 require 'database.php';
 
+include 'cryptodata.php';
+
 // SELECT ALL PRODUCTS
 
 
